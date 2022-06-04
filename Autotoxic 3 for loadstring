@@ -4,7 +4,9 @@ local chosenPlayer = ""
 
 if chosePlayer = true, type playername in quotes 
 
-local Taunts = { --add as many as you wish "You're bad at the game bro.", 
+local Taunts = { --add as many as you wish 
+
+"You're bad at the game bro.", 
 
 "I'm your dad so if you try to talk to me you're stupid.", 
 
@@ -22,17 +24,21 @@ local Taunts = { --add as many as you wish "You're bad at the game bro.",
 
 "Ask your Mom Who is your real dad.", 
 
-"Everyone Knows you are so bad.", "Sub to Ree You Gae Dood.", 
+"Everyone Knows you are so bad.", 
+
+"Sub to Ree You Gae Dood.", 
 
 "Your Sister Want My Pear.", 
 
 "Ask your Mom and sister to stop.", 
 
-"Your Mom WaterMelon Is So Big.", "
+"Your Mom WaterMelon Is So Big.", 
 
-Toxicity Toxicty I don't Like Toxicty But Toxicty Likes Me.", 
+"Toxicity Toxicty I don't Like Toxicty But Toxicty Likes Me.", 
 
-"The Fact That I am Your Dad.", "Sub Ree Lol.", 
+"The Fact That I am Your Dad.", 
+
+"Sub Ree Lol.", 
 
 "Someone Is Mad Right Now lol.", 
 
